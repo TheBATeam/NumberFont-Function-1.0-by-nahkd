@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+
+Font v1.0 - 5x5
+Usage: font-1.0-5x5.bat [number]
+[number]               Input number
+NOTE: Every number must type with space
+Example: font-1.0-5x5.bat 1 2 5 6
+will output 1256 in big number
+
+------------------------------------------------------------------------------
+
+Font v1.0 - 7x7
+Usage: font-1.0-5x7.bat [number]
+[number]               Input number
+NOTE: Every number must type with space
+Example: font-1.0-5x7.bat 1 2 5 6
+will output 1256 in big number
+
+------------------------------------------------------------------------------
+Simply Launch the Example File.. and Follow the instructions!
+
+You can appreciate nahkd at their YT channel:
+https://www.youtube.com/channel/UC-zpj8lQC97LjTTWoMzr5-A
+
+Support TheBATeam to innovate more & make all the Batch Programmers better At:
+www.thebateam.org
